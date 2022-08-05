@@ -5,3 +5,6 @@
 
 ### Black borders.
 ![black](https://user-images.githubusercontent.com/80072600/183096546-b359759a-1abd-40f3-b8d0-a22fd855cb3e.png)
+
+Made for Focus Attack laser cutting service.
+Dont't forger 💀 to credit.
